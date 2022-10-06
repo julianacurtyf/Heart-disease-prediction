@@ -26,4 +26,5 @@ having heart disease without comorbidities, or not having heart disease (with or
 
 ## Graphical User Interface
 
+![Screen Shot 2022-10-06 at 14 53 54](https://user-images.githubusercontent.com/93845875/194318613-0dd97593-d37e-4981-8c01-5d653b3c443b.png)
 
